@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "build": "babel src --out-dir lib",
+    "preinstall": "npm run build",
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
