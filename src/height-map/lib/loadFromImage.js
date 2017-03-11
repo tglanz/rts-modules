@@ -1,7 +1,7 @@
 import Jimp from 'jimp';
 
-import * as args from 'args';
-import Matrix2d from 'matrix-2d';
+import * as args from 'rts-modules/args';
+import Matrix2d from 'rts-modules/matrix-2d';
 import HeightMap from './HeightMap';
 
 const _calculateHeight = ({

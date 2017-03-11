@@ -1,4 +1,4 @@
-import * as args from 'args';
+import * as args from 'rts-modules/args';
 
 export default class {
     constructor({

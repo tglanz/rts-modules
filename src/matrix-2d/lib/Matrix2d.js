@@ -1,4 +1,4 @@
-import * as args from 'args';
+import * as args from 'rts-modules/args';
 
 const _entryIndex = (columnCount, row, column) => row * columnCount + column;
 
