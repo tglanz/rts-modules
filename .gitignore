@@ -3,6 +3,6 @@ lib/*
 .vscode/*
 npm-debug.log
 
-./args
-./height-map
-./matrix-2d
+args/*
+height-map/*
+matrix-2d/*
