@@ -2,3 +2,7 @@ node_modules/*
 lib/*
 .vscode/*
 npm-debug.log
+
+./args
+./height-map
+./matrix-2d
